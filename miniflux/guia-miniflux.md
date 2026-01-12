@@ -16,7 +16,7 @@ Caso você não saiba o endereço exato do feed, experimente inserir o endereço
 
 Ao clicar em um item, você poderá ler a notícia diretamente no Miniflux.
 
-![Item/post do Manual do Usuário aberto no Miniflux.](/images//miniflux-feed-item.png)
+![Item/post do Manual do Usuário aberto no Miniflux.](/images/miniflux-feed-item.png)
 
 ## Como importar feeds de outras plataformas
 
@@ -24,4 +24,4 @@ Primeiro, exporte o seu feed da plataforma atual para um arquivo no formato `*.o
 
 Na página inicial, clique no `+` ao lado de `Fontes` no menu superior. Na tela seguinte, clique no menu `Importar`.
 
-![Tela de importação de feeds via arquivo OPML no Miniflux.](/images//miniflux-importar.png)
+![Tela de importação de feeds via arquivo OPML no Miniflux.](/images/miniflux-importar.png)
